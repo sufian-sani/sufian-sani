@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👨‍💻 About Me
 
-<!--
-**sufian-sani/sufian-sani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Abu Sufian Sani** — a passionate and self-driven **Software Engineer** with a strong focus on **Backend Engineering** and scalable web systems. I specialize in building robust, high-performance applications and automating workflows with modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+- 🛠️ Design and develop scalable backend services and APIs
+- ⚙️ Solve complex problems with clean, efficient code
+- 📊 Build and deploy data-driven systems using ML/AI
+- 🔄 Integrate frontend with backend seamlessly using modern stacks
+- 🚀 Constantly learn and adopt new technologies
+
+---
+
+## 🔧 Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+- **Python** – Django, FastAPI, Pandas, NumPy
+- **JavaScript** – Node.js, Express.js, React.js
+- **HTML5**, **CSS3**
+
+### 🧠 ML / AI Tools
+- scikit-learn, TensorFlow, OpenCV (basics), NLP libraries
+
+### 🗃️ Databases
+- **PostgreSQL**, **MySQL**, **MongoDB**, **SQLite**, **Redis**
+
+### 🔗 Dev Tools & Others
+- Git & GitHub, Linux, Docker, REST APIs, Postman, VS Code
+- Background job queues, data scraping, automation scripting
+
+---
+
+## 📈 What I'm Exploring Now
+
+- Advanced Machine Learning and Deep Learning
+- Distributed Systems and Microservices
+- DevOps (CI/CD, Docker, deployment automation)
+- Real-time systems with WebSockets and Redis Pub/Sub
+
+---
+
+## 📫 Contact
+
+Feel free to connect or collaborate:
+
+- GitHub: [github.com/sufian-sani](https://github.com/sufian-sani)
+- Linkdin: [linkedin.com/in/abu-sufian-sani/](https://www.linkedin.com/in/abu-sufian-sani/)
+- Email: abu5suffian@gmail.com
